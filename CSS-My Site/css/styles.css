@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+h1{
+  font-size: 5rem;
+  margin-top:50px,auto, 0, auto;
+  font-family: 'Sacramento', cursive;
+  color: #A760FF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  color: #CA82FF;
+}
+a{
+  font-family: 'Merriweather', serif;
+  color: #CA82FF;
+}
+
+div{
+  background-color: #FFDAAF;
+  margin: 0px;
+  padding: 20px;
+}
+
+.top{
+  background-color: #FFCC8F;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+
+}
+.bottom{
+
+}
+.cloud1{
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
+.cloud2{
+  position:absolute;
+  top: 200px;
+  left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image{
+  float: left;
+  margin-right: 30px
+}
+.chillies-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #A63EC5;
+  background-image: -webkit-linear-gradient(top, #A63EC5, #CE49BF);
+  background-image: -moz-linear-gradient(top, #A63EC5, #CE49BF);
+  background-image: -ms-linear-gradient(top, #A63EC5, #CE49BF);
+  background-image: -o-linear-gradient(top, #A63EC5, #CE49BF);
+  background-image: linear-gradient(to bottom, #A63EC5, #CE49BF);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FBD6D2;
+  background-image: -webkit-linear-gradient(top, #FBD6D2, #F190B7);
+  background-image: -moz-linear-gradient(top, #FBD6D2, #F190B7);
+  background-image: -ms-linear-gradient(top, #FBD6D2, #F190B7);
+  background-image: -o-linear-gradient(top, #FBD6D2, #F190B7);
+  background-image: linear-gradient(to bottom, #FBD6D2, #F190B7);
+  text-decoration: none;
+}
+
+.footer-link{
+  font-size: 1.2rem;
+  margin: 10px
+}
+
+#pro{
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0;
+}
